@@ -1,0 +1,20 @@
+<!-- GARCIA VALENCIA VALERIA SARAHI-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>
+            Grupo 15601 Mejorando Skills
+        </tittle>
+    </head>
+    <body>
+        <h1> Esta es mi pagina numero 2!</h1>
+        <img src="https://cdn.icon-icons.com/icons2/1148/PNG/512/1486503770-blue-check-cloud-data-cloud-computing-cloudy_81292.png">
+        <img src="IMAGENES/icono_nube.png">
+
+        <h2> Hola grupo. </h2>
+
+        <p> ya estas en la segunda pagina 
+            <a href="practica1.html"> Dale click para regresar a page. 1</a></p>
+        </u1>
+    </body>
+</html>
