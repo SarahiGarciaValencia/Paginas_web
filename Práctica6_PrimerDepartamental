@@ -1,0 +1,30 @@
+<!-- GARCIA VALENCIA VALERIA SARAHI-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>
+           Sarahi practica
+        </tittle>
+        <link rel = "stylesheet" type = "text/css" href="./css/estilo.css"/> 
+    </head>
+    <body>
+        <h1 class = "titulo"> IMAGEN 1 </h1>
+        <img src="https://viajes.nationalgeographic.com.es/medio/2019/03/20/empire-state-building_ecb995bd_800x800.jpg">
+        <p> ESTA ES UNA IMAGEN DEL EMPPIRE STATE</p>
+        <h2 class = "titulo"> IMAGEN 2 </h2>
+        <img src="https://cdn.britannica.com/61/93061-050-99147DCE/Statue-of-Liberty-Island-New-York-Bay.jpg">
+        <p> ESTA ES UNA IMAGEN DE la estatua de la libertad</p>
+        <h3 class = "titulo"> IMAGEN 3 </h3>
+        <img src="https://image.nuevayork.com/wp-content/uploads/2020/03/New-York-Helicopter-Tour-2.eric_both.bottom_right.jpg.webp">
+        <p> ESTA ES UNA IMAGEN NEW YORK</p>
+        <h4 class = "titulo"> IMAGEN 4 </h4>
+        <img src="https://www.turismonuevayork.com/wp-content/uploads/2014/09/Times-Square-Nueva-York-1024x685.jpg">
+        <p> ESTA ES UNA IMAGEN DE NEW YORK</p>
+        <h5 class = "titulo"> IMAGEN 5 </h5>
+        <img src="https://image.nuevayork.com/wp-content/uploads/2020/08/Coronavirus-in-New-York.jpg.webp">
+        <p> ESTA ES UNA IMAGEN DE NEW YORK</p>
+        <h6 class = "titulo"> IMAGEN 6 </h6>
+        <img src="https://a.cdn-hotels.com/gdcs/production166/d1908/b170beea-1149-4914-b046-66e0a5d0a259.jpg?impolicy=fcrop&w=800&h=533&q=medium">
+        <p> ESTA ES UNA IMAGEN DE NEW YORK</p>
+</body>
+</html>
