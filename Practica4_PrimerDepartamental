@@ -1,0 +1,148 @@
+<!-- GARCIA VALENCIA VALERIA SARAHI-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>
+           Un ejemplo de tablas
+        </tittle>
+    </head>
+    <body>
+        <h1> Esta es mi tabla</h1>
+        <table>
+        <tr>
+            <th>One </th>
+            <th>Two </th>
+            <th>Three </th>
+            <th>Four </th>
+            <th>Five </th>
+            <th>Six </th>
+            <th>Seven </th>
+            <th>Eight </th>
+            <th>Nine </th>
+            <th>Ten </th>
+            <th>Eleven</th>
+            
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/CLIP_ICONO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_AUTORIZACION.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_BUSQUEDA.png"></td> 
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_DIAMANTE.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_MALETIN.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_CHAT.png"></td>
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/ICONO_ELIMINAR.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_FOCO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_GUARDAR.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_INTERNET.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_LIBRO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_LIBRO_BLANCO.png"></td>
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/ICONO_LIBRO_FAVORITO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/icono_nube.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_PESA1.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_PESAS.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_SOL.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/PERIODICO_ICONO.png"></td>
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/ICONO_TECLADO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_CARTERA.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_CARGA.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_BUSQUEDA.png"></td> 
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_CHAT.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_GUARDAR.png"></td>
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/ICONO_DIAMANTE.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_FOCO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_LIBRO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_CARGA.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_TECLADO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_SOL.png"></td>
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/ICONO_SOL.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_INTERNET.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_TECLADO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_BUSQUEDA.png"></td> 
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_FOCO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_PESA1.png"></td>
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/ICONO_LIBRO_BLANCO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_PESAS.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_DIAMANTE.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_SOL.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_CARGA.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/PERIODICO_ICONO.png"></td>
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/icono_nube.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/PERIODICO_ICONO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_AUTORIZACION.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_FOCO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_INTERNET.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_DIAMANTE.png"></td>
+        </tr>
+        <tr>
+            <td><img src="IMAGENES/ICONO_TECLADO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_GUARDAR.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_LIBRO.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_PESAS.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_INTERNET.png"></td>
+            <td>First Row</td>
+            <td><img src="IMAGENES/ICONO_GUARDAR.png"></td>
+        </tr>
+       
+
+        </table>
+        
+    </body>
+</html>
