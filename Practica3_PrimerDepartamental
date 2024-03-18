@@ -1,0 +1,27 @@
+<!-- GARCIA VALENCIA VALERIA SARAHI-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>
+           Un ejemplo de tablas
+        </tittle>
+    </head>
+    <body>
+        <h1> Esta es mi tabla</h1>
+        <table>
+        <tr>
+            <th>First Header</th>
+            <th>Second Header</th>
+        </tr>
+        <tr>
+            <td>First Row, First Cell</td>
+            <td>First Row, Second Cell</td>
+        </tr>
+        <tr>
+            <td>Second Row, First Cell</td>
+            <td>Second Row, Second Cell</td>
+        </tr>
+        </table>
+        
+    </body>
+</html>
