@@ -1,0 +1,18 @@
+<!-- GARCIA VALENCIA VALERIA SARAHI-->
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1> Hola mundo</h1>
+        <p>Esto es un parrafo</p>
+        <p>Esto es otro parrafo</p>
+
+        <u1>
+            <li>Esto es un item de una lista desordenada</li>
+            <li>Esto es otro item </li>
+            <li>Otro item</li>
+            
+        </u1>
+    </body>
+</html>
