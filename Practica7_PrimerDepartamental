@@ -1,0 +1,137 @@
+<!-- GARCIA VALENCIA VALERIA SARAHI-->
+<!DOCTYPE html>
+<html>
+    <header>
+        <center>
+            <h1  <b> <font COLOR = "black"> Welcome to my 16-bit Style Page!</font></b></h1>
+             </center>
+
+        <!--<tittle>welcome to my 16-bit style page</tittle>-->
+        <link rel = "stylesheet" type = "text/css" href="./css/estilo.css"/> 
+    </header>
+<style>
+    header{
+        background-color: #ff0;
+        padding: 20px;
+        font-size: 20px;
+        font-family:'Comic Sans Ms, Press Start 2P', cursive;
+        width: 1000px, 1000px;
+height: 80px;
+font-size: small;
+
+        
+ }
+    body{
+        background-color: black;
+        color: #ddd;
+        font-family: 'Comic Sans Ms';
+    }
+    div{
+                    background-color: #ffffffc3;
+                    margin:60px;
+                    border-width: 4px;
+                    border-style: solid;
+                    border-color: rgb(6, 255, 6);
+                    border-radius: 30px 30px 30px 30px;
+                    text-shadow: 0 0 30px #85ec8a;
+                    box-shadow: 0 0 20px rgb(10, 231, 110);
+                    align-content: center;
+                }
+    .caja{
+        width: 80%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff3f3dc;
+        border: 2px solid #696868;
+        border-radius: 40px;
+        box-shadow: 0px 0px 40px #02fc28;
+    }
+    footer{
+        background-color: rgb(233, 108, 24);
+        background-size: 60px;
+        padding: 1%;
+        font-size: 15px;
+        font-family: 'Comic Sans Ms';
+        width: 1000px;
+    height: 110px;
+  
+
+        
+    }
+    button{
+        border-radius: 0%;
+        padding: 1%;
+        background-color: #ff0;
+        background-size: 40px;
+        font-size: 10px;
+        font-family: 'Comic Sans Ms';
+        width: 870px;
+    height: 22px;
+    text-align: center;
+    
+
+    }
+
+    input{
+
+        background-color: black;
+        background-size: contain;
+        width: 870px;
+        height: 25px;
+        text-align: center;
+    }
+  
+            
+</style>    
+<body>
+
+
+             <h2><b> <font COLOR = "WHITE"> ABOUT ME</font></b></h2>
+             <P <b> <font COLOR = "WHITE"> I am a big fan of 16-bit games and I wanted to created a web page that captures their style </font></b></P>
+            
+             <h2><b> <font COLOR = "WHITE">My favorites games </h2></b></font>
+             <ul>
+                <li <b> <font COLOR = "WHITE"> Super Mario Bros</font></b></li>
+                <li <b> <font COLOR = "WHITE"> The legend of zelda</font></b></li>
+                <li <b> <font COLOR = "WHITE"> Sonic the hedgehog</font></b></li>
+
+                
+            </ul>
+
+        <caja>
+                
+
+                <div style="background-color: rgba(255, 255, 255, 0.765);"
+                <form action="/submit-form" method="post"></form>
+        
+                <tittle <b> <font COLOR = "black"> <center>RETRO GAME FORM</center> </font></b></tittle>
+                <br>
+                
+                    <label <b> <font COLOR = "black">Nombre</font></label>
+                        <br>
+                        <input type="text" id="nombre" name="nombre">
+                    <br>
+                    <label <b> <font COLOR = "black">Email</font></label>
+                        <br>
+                        <input type="text" id="email" name="email">
+                    <br>
+                    <br>
+                    <br>
+
+                    <center>
+                        <button <b> <font COLOR = "RED">Submit</font>
+                            <br>
+                        </center>
+               
+            </form>
+        </caja>
+            </div>
+<footer>
+            <center>
+                 <b> <fon COLOR = "WHITE">
+                    <b> <font COLOR = "WHITE"> copyright © 2023 me </font></b>
+                 </center>
+</footer>
+                </body>   
+
+            </html>   
