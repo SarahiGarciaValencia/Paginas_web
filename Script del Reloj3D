@@ -1,0 +1,19 @@
+function updateClock() {
+    const now = new Date();
+    const hours = now.getHours();
+    const minutes = now.getMinutes();
+    const seconds = now.getSeconds();
+
+    const hourFace = document.querySelector('.hour');
+    const minuteFace = document.querySelector('.minute');
+    const secondFace = document.querySelector('.second');
+
+    // Actualizar las caras del cubo con la hora, minuto y segundo actual
+    hourFace.textContent = hours < 10 ? '0' + hours : hours;
+    minuteFace.textContent = minutes < 10 ? '0' + minutes : minutes;
+    secondFace.textContent = seconds < 10 ? '0' + seconds : seconds;
+}
+
+updateClock(); // Llamar a la función una vez para mostrar la hora inicial
+
+setInterval(updateClock, 1000); // Actualizar la hora cada segundo
