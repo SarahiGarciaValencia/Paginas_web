@@ -1,0 +1,37 @@
+document.getElementById('formulario').addEventListener('submit', function(event) {
+    event.preventDefault(); // Evitar que el formulario se envíe automáticamente
+
+    // Obtener valores del formulario
+    var matricula = document.getElementById('matricula').value;
+    var nombre = document.getElementById('nombre').value;
+    var ingles = parseFloat(document.getElementById('ingles').value);
+    var matematicas = parseFloat(document.getElementById('matematicas').value);
+    var espanol = parseFloat(document.getElementById('espanol').value);
+
+    // Calcular promedio
+    var promedio = (ingles + matematicas + espanol) / 3;
+
+    // Generar tabla de resultados
+    var resultadosDiv = document.getElementById('resultados');
+    resultadosDiv.innerHTML = `
+        <h2>Resultados</h2>
+        <table>
+            <tr>
+                <th>Matrícula</th>
+                <th>Nombre</th>
+                <th>Inglés</th>
+                <th>Matemáticas</th>
+                <th>Español</th>
+                <th>Promedio</th>
+            </tr>
+            <tr>
+                <td>${matricula}</td>
+                <td>${nombre}</td>
+                <td>${ingles}</td>
+                <td>${matematicas}</td>
+                <td>${espanol}</td>
+                <td>${promedio.toFixed(2)}</td>
+            </tr>
+        </table>
+    `;
+});
